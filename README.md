@@ -1,4 +1,4 @@
-# JITERA - UI Coding Assignment
+# UI Coding Assignment
 
 ## Available Scripts
 
